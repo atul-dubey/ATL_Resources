@@ -61,3 +61,6 @@ This webpage contains resources provided by the AIM team for training and guidin
 
 ## [Ethical Leadership for Tinkering and Inovation](https://aim.gov.in/pdf/Business-pitch-template.pdf)
 
+## [Atal Innovation Mission Youtube Channel](https://www.youtube.com/c/AIMtoInnovate/playlists)
+
+## [MAKE: Official Youtube Channel](https://www.youtube.com/channel/UChtY6O8Ahw2cz05PS2GhUbg)
